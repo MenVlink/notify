@@ -1,0 +1,14 @@
+{
+    "languages": [
+        {
+            "language": "en",
+            "title": "Notification",
+            "description": "<p style='padding:5px 0'>Dear VLINKEXCHANGE Community,</p><p style='padding:5px 0'>In accordance with the new policy, concerning the preservation of assets and personal information of all members within the VLINKGROUP ecosystem, VLINKEXCHANGE wishes to announce that starting from May 16, 2024, all members are kindly requested to transfer all USDT to the corresponding wallet at VMMCASHBACK, for the system to conduct an audit on large scale:</p><p style='padding:6px 5px'>&#8226; Therefore, any accounts with remaining USDT balances after 31st May 2024 will be temporarily frozen as previously announced.</p><p style='padding:6px 5px'>&#8226; For any inquiries, please contact our support team at <a href='https://t.me/VlgCustomerSupport'> here </a>, VLINKEXCHANGE is ready to assist.</p><p style='padding:2px 0'>VLINKEXCHANGE Team With sincere appreciation!</p>"
+        },
+        {
+            "language": "vn",
+            "title": "Thông báo",
+            "description": "<p style='padding:5px 0'>Thân gửi Cộng đồng VLINKEXCHANGE,</p><p style='padding:5px 0'>Căn cứ theo Chính sách mới của tập đoàn, liên quan đến việc bảo toàn tài sản và thông tin cá nhân của tất cả các thành viên trong hệ sinh thái VLINKGROUP, VLINKEXCHANGE xin thông báo từ ngày 16/05/2024, các thành viên vui lòng chuyển tất cả USDT tập trung về ví tương ứng tại VMMCASHBACK, để hệ thống tiến hành kiểm toán theo quy mô lớn:</p><p style='padding:6px 5px'>&#8226; Theo đó, bất kỳ tài khoản nào còn số dư USDT sau ngày 31 tháng 5 năm 2024 sẽ bị tạm đóng băng như đã thông báo. </p><p style='padding:6px 5px'>&#8226; Mọi thắc mắc xin gửi về đội ngũ hỗ trợ <a href='https://t.me/VlgCustomerSupport'> tại đây </a>, VLINK EXCHANGE sẵn sàng hỗ trợ.</p><p style='padding:2px 0'>Đội ngũ VLINKEXCHANGE Trân trọng cảm ơn !</p>"
+        }
+    ]
+}
